@@ -4,13 +4,15 @@ ClosetDay helps you photograph your clothes, organize your wardrobe, find what y
 
 **Email:** [dmytro@nycintel.app](mailto:dmytro@nycintel.app)
 
-For a bug report, include your iPhone model, iOS version, ClosetDay version, and the steps that led to the problem. Please do not send your wardrobe photos or backup archive unless you choose to share them for troubleshooting. Do not post private information in public GitHub issues.
+For a bug report, include your iPhone or iPad model, iOS/iPadOS version, ClosetDay version, and the steps that led to the problem. Please do not send your wardrobe photos or backup archive unless you choose to share them for troubleshooting. Do not post private information in public GitHub issues.
 
 ## Getting started
 
-1. Open **Add Piece** and photograph a garment or choose photos.
+Your personal wardrobe starts empty. The short guide can be skipped or replayed from **Wardrobe → menu → Settings → How it works**. The illustrated closet grows from your saved categories and colors.
+
+1. Open **Add Piece** and photograph a garment or choose photos. Use **One piece** or **Several pieces** in the camera, with one garment per photo. Review and save each piece in order.
 2. Review the cutout. Crop or erase unwanted areas if needed. You can zoom while cleaning up the image.
-3. Choose a category and save. Brand and other details are optional.
+3. Choose a category and save. Name, brand, size, material and notes are optional. **Piece details → Purchase price** lets you record an optional amount and choose its currency. Edit or clear it later by opening the saved piece. Amounts keep their original currency; ClosetDay does not convert exchange rates.
 4. Open **Wardrobe** to browse categories or search for a piece.
 5. Open the wardrobe menu and choose **Pack for a trip** to make a packing list and check destination weather.
 
@@ -20,11 +22,11 @@ You can keep up to **10 wardrobe items free**. Saving an **11th item** opens the
 
 Travel lists can use your existing wardrobe without an unlock. Photos added through a trip also become wardrobe items and follow the same 10-item limit. Existing pieces, editing, deletion, packing lists and backups remain accessible.
 
-Canceling the purchase keeps your unsaved photo available. To recover an existing purchase, open **Wardrobe → menu → ClosetDay unlock → Restore purchases** using the Apple Account that made the purchase. Apple handles billing and refunds.
+Canceling the purchase keeps your unsaved photo available. To recover an existing purchase, open **Wardrobe → menu → Settings → ClosetDay unlock → Restore purchases** using the Apple Account that made the purchase. Apple handles billing and refunds.
 
 ## Backups and changing phones
 
-Your wardrobe is stored on your device. Export a backup from the wardrobe menu and keep it somewhere you trust. Import that backup on your other iPhone. A backup contains your garment photos and details, so share it carefully. There is no automatic ClosetDay cloud sync.
+Your wardrobe is stored on your device. Export a backup from **Wardrobe → menu → Settings → Backup & restore** and keep it somewhere you trust. Import that backup on your other iPhone or iPad. A backup contains your garment photos and details, so share it carefully. There is no automatic ClosetDay cloud sync.
 
 ## Weather
 
@@ -32,7 +34,7 @@ Search for a destination city in your trip. Forecasts require an internet connec
 
 ## Photo cleanup
 
-Background removal runs on your iPhone. Busy backgrounds, hangers, thin straps and overlapping objects can require manual cleanup. Your original photo is retained. ClosetDay does not generate a different version of your garment.
+Background removal runs on your iPhone or iPad. Busy backgrounds, hangers, thin straps and overlapping objects can require manual cleanup. Your original photo is retained. ClosetDay does not generate a different version of your garment.
 
 ## Languages
 
