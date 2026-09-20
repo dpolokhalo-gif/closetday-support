@@ -1,6 +1,6 @@
 # ClosetDay Privacy Policy
 
-Effective September 19, 2026.
+Effective September 20, 2026.
 
 Publisher: Dmytro Polokhalo. Contact: [dmytro@nycintel.app](mailto:dmytro@nycintel.app).
 
@@ -8,7 +8,7 @@ ClosetDay lets you build a personal wardrobe and packing lists. It does not requ
 
 ## Photos and wardrobe information
 
-Garment photos, original images, wardrobe details, packing lists, preferences, and cached destination forecasts are stored in the app on your device. Background removal and photo cleanup happen on your iPhone. ClosetDay does not upload garment photos to an AI service or a ClosetDay server.
+Garment photos, original images, wardrobe details, packing lists, preferences, and cached destination forecasts are stored in the app on your device. Background removal, photo cleanup, item classification and color suggestions happen entirely on your iPhone or iPad. The recognition model is bundled with the app; it does not send photos or image embeddings to an external service. ClosetDay does not upload garment photos to an AI service or a ClosetDay server.
 
 You control camera permission and the photos you select with Apple's photo picker. You can remove saved pieces and trips in the app. Device backups managed by Apple may include app data according to your device settings.
 

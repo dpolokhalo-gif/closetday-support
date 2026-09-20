@@ -12,7 +12,7 @@ Your personal wardrobe starts empty. The short guide can be skipped or replayed 
 
 1. Open **Add Piece** and photograph a garment or choose photos. Use **One piece** or **Several pieces** in the camera, with one garment per photo. Review and save each piece in order.
 2. Review the cutout. Crop or erase unwanted areas if needed. You can zoom while cleaning up the image.
-3. Choose a category and save. Name, brand, size, material and notes are optional. **Piece details → Purchase price** lets you record an optional amount and choose its currency. Edit or clear it later by opening the saved piece. Amounts keep their original currency; ClosetDay does not convert exchange rates.
+3. Review the suggested item, category and color, then save. Photo suggestions run entirely on your device, with no per-photo fee. Uncertain details stay unset, and you can edit every suggestion. Name, brand, size, material and notes are optional. **Piece details → Purchase price** lets you record an optional amount and choose its currency. Edit or clear it later by opening the saved piece. Amounts keep their original currency; ClosetDay does not convert exchange rates.
 4. Open **Wardrobe** to browse categories or search for a piece.
 5. Open the wardrobe menu and choose **Pack for a trip** to make a packing list and check destination weather.
 
@@ -32,9 +32,9 @@ Your wardrobe is stored on your device. Export a backup from **Wardrobe → menu
 
 Search for a destination city in your trip. Forecasts require an internet connection and only appear for dates within the available forecast period. A trip far in the future can still be planned without a forecast. The travel feature uses the selected destination, not your current GPS location. Weather is provided by Apple Weather; attribution is available in the app.
 
-## Photo cleanup
+## Photo recognition and cleanup
 
-Background removal runs on your iPhone or iPad. Busy backgrounds, hangers, thin straps and overlapping objects can require manual cleanup. Your original photo is retained. ClosetDay does not generate a different version of your garment.
+Background removal and photo recognition run on your iPhone or iPad, without uploading photos. Item names and categories are suggested by a bundled model; colors are estimated from the garment cutout. Lighting, unusual pieces and patterns can produce incomplete or incorrect suggestions. Your corrections are preserved when you crop or clean a photo. Busy backgrounds, hangers, thin straps and overlapping objects can require manual cleanup. Your original photo is retained. ClosetDay does not generate a different version of your garment.
 
 ## Languages
 
